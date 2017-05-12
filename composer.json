@@ -1,12 +1,12 @@
 {
-  "name": "connyay/PseudoCrypt",
+  "name": "yulinho/pseudo-crypt",
   "type": "library",
   "description": "Composer friendly version of http://web.archive.org/web/20130727034425/http://blog.kevburnsjr.com/php-unique-hash ",
   "keywords": [
     "PseudoCrypt",
     "crypt"
   ],
-  "homepage": "https://github.com/connyay/PseudoCrypt",
+  "homepage": "https://github.com/yulinho/PseudoCrypt",
   "license": "MIT",
   "authors": [
     {
